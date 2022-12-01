@@ -1,0 +1,34 @@
+[
+    {
+        "stepName": "Request",
+        "count": 30
+    },
+    {
+        "stepName": "Verify",
+        "count": 0
+    },
+    {
+        "stepName": "Authorise",
+        "count": 0
+    },
+    {
+        "stepName": "Isolating",
+        "count": 0
+    },
+    {
+        "stepName": "Live",
+        "count": 0
+    },
+    {
+        "stepName": "LiveLTI",
+        "count": 0
+    },
+    {
+        "stepName": "Deisolating",
+        "count": 0
+    },
+    {
+        "stepName": "DFT",
+        "count": 0
+    }
+]
